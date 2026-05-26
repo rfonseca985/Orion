@@ -1,0 +1,4 @@
+# ORION usa apenas a biblioteca padrao do Python.
+#
+# Requisito externo:
+# - Ollama instalado localmente: https://ollama.com/download
